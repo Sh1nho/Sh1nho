@@ -26,3 +26,7 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1nho&layout=compact&bg_color=60,00c7fc,d9eb37&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+<div align= "center">
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinho0288)](https://solved.ac/sinho0288/)
+ </div>
