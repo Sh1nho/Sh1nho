@@ -74,7 +74,7 @@ Data Analysis
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-white?style=flat-square&logo=Tensorflow&logoColor=EE4C2C"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-white?style=flat-square&logo=Tensorflow&logoColor=EE4C2C"/></a>
 
 <br/>
 
