@@ -51,7 +51,10 @@ Machine Learning
 
 Deep Learning
 
+Data Science
+
 Data Analysis
+
 
 <br/>
 <br/>
